@@ -1,0 +1,8 @@
+{
+  "name": "nodejs_rabbitmq_simple_example",
+  "description": "example rabbit mq using amqplib",
+  "author": "Gillis Haasnoot <gillis.haasnoot@gmail.com>",
+  "dependencies": {
+    "amqplib": ">= 0.5.0"
+  }
+}
